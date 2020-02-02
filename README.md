@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Please visit https://shrutisatish.github.io/trivia-challenge/ for a live demo 
+
 ## Project Description
 
 The program takes a predefined set of questions and answers, shuffles the order, and presents each question and answer, one at a time in a flashcard format.
