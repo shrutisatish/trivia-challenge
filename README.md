@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+The program takes a predefined set of questions and answers, shuffles the order, and presents each question and answer, one at a time in a flashcard format.
+Features: </br>
+The order of the questions and answers are different if you run through the application multiple times (unless there is only one question/answer loaded).</br>
+The flashcard application can display an interactive flashcard for each question.</br>
+When displayed a question, you can interact with the card to show the answer.</br>
+When displayed an answer, you can interact with the card to show the next question.</br>
+When you’re at the last answer, you can interact with the application to run it again.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
