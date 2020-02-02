@@ -1,5 +1,6 @@
 {
   "name": "trivia-challenge",
+  "homepage": "https://shrutisatish.github.io/trivia-challenge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,6 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "deploy": "react-scripts build && gh-pages -d build",
     "cypress:run": "cypress run",
     "cypress:open": "cypress open"
   },
@@ -38,6 +40,7 @@
     ]
   },
   "devDependencies": {
-    "cypress": "^3.7.0"
+    "cypress": "^3.7.0",
+    "gh-pages": "^2.2.0"
   }
 }
